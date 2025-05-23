@@ -4,11 +4,11 @@
     "slug": "tpDai7-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Inter-miami.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/SPLASH SCREEN.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
